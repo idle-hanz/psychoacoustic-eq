@@ -1,4 +1,5 @@
-streamlit
+gradio
 numpy
 scipy
 matplotlib
+soundfile
